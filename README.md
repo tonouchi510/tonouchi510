@@ -1,5 +1,6 @@
 ## Hi! I'm masato.tonouchi 👋
-Software Engineer (ML) of mixi, Inc. and AI-Scholar media writer.
+Software Engineer (ML) of mixi, Inc. and AI-Scholar media writer.  
+Main Skill: R＆D(CV) and MLOps
 
 - AI-Scholar: https://ai-scholar.tech/author/tonouchi  
 - Twitter: https://twitter.com/tono2700  
@@ -21,10 +22,10 @@ Software Engineer (ML) of mixi, Inc. and AI-Scholar media writer.
 
 
 ## Technology Stack
-wip
-<p align="left">
-
-</p>
+- Python, Golang
+- TensorFlow
+- Kubeflow Pipelines
+- GCP
 
 ## [GitHub Trophy](https://github.com/tonouchi510/github-profile-trophy)
 <a href="https://github.com/tonouchi510/github-profile-trophy">
