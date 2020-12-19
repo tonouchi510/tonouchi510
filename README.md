@@ -2,10 +2,11 @@
 Software Engineer (ML) of mixi, Inc. and AI-Scholar media writer.  
 Main Skill: R＆D(CV) and MLOps
 
+- Twitter: https://twitter.com/tono2700
+- LAPRAS: https://lapras.com/public/ICDDHFQ
 - AI-Scholar: https://ai-scholar.tech/author/tonouchi  
-- Twitter: https://twitter.com/tono2700  
-- Facebook: https://www.facebook.com/tonouchi.masato.yh  
 - Qiita: https://qiita.com/tonouchi510  
+- Facebook: https://www.facebook.com/tonouchi.masato.yh  
 - hatenablog: https://tonotech.hatenablog.com/  
 
 <p align="left"> 
