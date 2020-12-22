@@ -50,4 +50,5 @@ Main Skill: R＆D(CV) and MLOps
 - 2019/09 FIT2019発表 "CNNを用いた類似した三次元船型形状からの造波抵抗推定"
 - 2020/07 日本ディープラーニング協会主催 CVPR 2020 技術報告会
   - https://jdla.connpass.com/event/177973/
+  - https://speakerdeck.com/mixi_engineers/cvpr-2020-japan-deep-learning-association-lun-wen-shao-jie-bizinesuying-yong-li-toluo-mete?slide=4
 </details>
