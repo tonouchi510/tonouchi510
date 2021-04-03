@@ -51,4 +51,8 @@ Main Skill: R＆D(CV) and MLOps
 - 2020/07 日本ディープラーニング協会主催 CVPR 2020 技術報告会
   - https://jdla.connpass.com/event/177973/
   - https://speakerdeck.com/mixi_engineers/cvpr-2020-japan-deep-learning-association-lun-wen-shao-jie-bizinesuying-yong-li-toluo-mete
+- 2021/03 今期の私は凄かったぞ！！！ 〜業務にいかにMLやDS等を使ってビジネスにめっちゃ貢献した話〜
+  - https://machine-learning-pitch.connpass.com/event/199555/
+  - https://www.slideshare.net/ssuser995b9a1/ml-245520906
+  - スポンサー賞受賞
 </details>
