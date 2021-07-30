@@ -36,19 +36,19 @@ Main Skill: R＆D(CV) and MLOps
 
 ## その他
 #### 受賞
-- 2019/12 NAVITIME API CHALLENGE 優秀賞
+- 2021/03 今期の私は凄かったぞ！！！ 〜業務にいかにMLやDS等を使ってビジネスにめっちゃ貢献した話〜　**スポンサー賞**
+  - https://machine-learning-pitch.connpass.com/event/199555/
+  - https://www.slideshare.net/ssuser995b9a1/ml-245520906
+- 2019/12 NAVITIME API CHALLENGE **優秀賞**
   - https://api-sdk.navitime.co.jp/challenge2019/
   - https://github.com/tonouchi510/navitime-challenge
-- 2017/10 MWS Cup 2017 2位
+- 2017/10 MWS Cup 2017 **2位**
   - https://www.iwsec.org/mws/2017/photo.html
 
 #### 登壇・執筆歴
 - 2021/07 日本ディープラーニング協会主催 CVPR 2021 技術報告会
   - https://jdla.connpass.com/event/214724/
-- 2021/03 今期の私は凄かったぞ！！！ 〜業務にいかにMLやDS等を使ってビジネスにめっちゃ貢献した話〜
-  - https://machine-learning-pitch.connpass.com/event/199555/
-  - https://www.slideshare.net/ssuser995b9a1/ml-245520906
-  - スポンサー賞受賞
+
 - 2020/12 技術書典10 "mixi tech note" 2章 担当
   - https://techbookfest.org/product/6210524205285376?productVariantID=4917232511483904
 - 2020/07 日本ディープラーニング協会主催 CVPR 2020 技術報告会
