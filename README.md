@@ -6,6 +6,7 @@ Main Skill: R＆D(CV) and MLOps
 - LAPRAS: https://lapras.com/public/ICDDHFQ
 - AI-Scholar: https://ai-scholar.tech/author/tonouchi  
 - Qiita: https://qiita.com/tonouchi510  
+- connpass: https://connpass.com/user/tonouchi510/presentation/
 - Facebook: https://www.facebook.com/tonouchi.masato.yh  
 - hatenablog: https://tonotech.hatenablog.com/  
 
