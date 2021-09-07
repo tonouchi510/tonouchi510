@@ -35,7 +35,7 @@ Main Skill: R＆D(CV) and MLOps
 
 
 ## その他
-#### 登壇・執筆歴
+#### 外部登壇・執筆歴
 - 2021/07 日本ディープラーニング協会主催 CVPR 2021 技術報告会
   - https://jdla.connpass.com/event/214724/
 
