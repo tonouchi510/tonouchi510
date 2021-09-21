@@ -34,7 +34,10 @@ Main Skill: R＆D(CV) and MLOps
 </a>
 
 
-## その他
+
+## その他：登壇・受賞歴等
+
+<details><summary>展開</summary>
 #### 外部登壇・執筆歴
 - 2021/07 日本ディープラーニング協会主催 CVPR 2021 技術報告会
   - https://jdla.connpass.com/event/214724/
@@ -58,3 +61,5 @@ Main Skill: R＆D(CV) and MLOps
   - https://github.com/tonouchi510/navitime-challenge
 - 2017/10 MWS Cup 2017 **2位**
   - https://www.iwsec.org/mws/2017/photo.html
+
+  </details>
