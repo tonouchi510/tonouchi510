@@ -1,10 +1,9 @@
 ## Hi! I'm masato.tonouchi 👋
-Software Engineer (ML) of mixi, Inc. and AI-Scholar media writer.  
-Main Skill: R＆D(CV) and MLOps
+Software Engineer (ML) of mixi, Inc.  
+Main Skill: R＆D(CV), MLOps, and backend.
 
 - Twitter: https://twitter.com/tono2700
 - LAPRAS: https://lapras.com/public/ICDDHFQ
-- AI-Scholar: https://ai-scholar.tech/author/tonouchi  
 - Qiita: https://qiita.com/tonouchi510  
 - connpass: https://connpass.com/user/tonouchi510/presentation/
 - Facebook: https://www.facebook.com/tonouchi.masato.yh  
@@ -21,6 +20,15 @@ Main Skill: R＆D(CV) and MLOps
   </a>
 </p>
 
+## Work History
+- 2018/09 ~ 2020/03 ヘルスケア事業での人体姿勢推定（OpenPose等）
+- 2020/04 ~ 家族アルバム事業における研究開発（主に顔認識系）、MLOps
+
+#### その他・副業
+- 2020/03 ~ AI系論文メディアライター
+  - https://ai-scholar.tech/author/tonouchi
+- 2021/09 ~ ライブ・エンタメ事業におけるETL改善&実装
+- 2021/10 ~ AI系事業での技術顧問
 
 ## Technology Stack
 - Python, Golang
@@ -38,7 +46,9 @@ Main Skill: R＆D(CV) and MLOps
 ## その他：登壇・受賞歴等
 
 <details><summary>展開</summary>
+
 #### 外部登壇・執筆歴
+  
 - 2021/07 日本ディープラーニング協会主催 CVPR 2021 技術報告会
   - https://jdla.connpass.com/event/214724/
 
