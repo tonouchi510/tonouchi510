@@ -29,9 +29,10 @@ Main Skill: R＆D(CV), MLOps, and backend.
   - https://ai-scholar.tech/author/tonouchi
 - 2021/09 ~ ライブ・エンタメ事業におけるETL改善&実装
 - 2021/10 ~ AI系事業での技術顧問
+- ...etc
 
 ## Technology Stack
-- Python, Golang
+- Python, Golang, C#
 - TensorFlow
 - Kubeflow Pipelines
 - GCP
@@ -40,8 +41,6 @@ Main Skill: R＆D(CV), MLOps, and backend.
 <a href="https://github.com/tonouchi510/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=tonouchi510"/>
 </a>
-
-
 
 ## その他：登壇・受賞歴等
 
@@ -72,4 +71,8 @@ Main Skill: R＆D(CV), MLOps, and backend.
 - 2017/10 MWS Cup 2017 **2位**
   - https://www.iwsec.org/mws/2017/photo.html
 
-  </details>
+#### 資格
+- 応用情報処理技術者
+- 基本情報処理技術者
+
+</details>
