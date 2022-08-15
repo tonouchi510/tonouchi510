@@ -47,7 +47,10 @@ Main Skill: R＆D(CV), MLOps, and backend.
 <details><summary>展開</summary>
 
 #### 外部登壇・執筆歴
-  
+
+- 2022/08 第22回 MLOps 勉強会
+  - https://mlops.connpass.com/event/253094/
+
 - 2021/07 日本ディープラーニング協会主催 CVPR 2021 技術報告会
   - https://jdla.connpass.com/event/214724/
 
