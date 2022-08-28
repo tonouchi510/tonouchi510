@@ -6,6 +6,7 @@ Main Skill: R＆D(CV), MLOps, and backend.
 - LAPRAS: https://lapras.com/public/ICDDHFQ
 - Qiita: https://qiita.com/tonouchi510  
 - connpass: https://connpass.com/user/tonouchi510/presentation/
+- speakerdeck: https://speakerdeck.com/tonouchi510
 - Facebook: https://www.facebook.com/tonouchi.masato.yh  
 
 <p align="left"> 
@@ -25,17 +26,17 @@ Main Skill: R＆D(CV), MLOps, and backend.
 - 2020/04 ~ 家族アルバム事業における研究開発（主に顔認識系）、MLOps
 
 #### その他・副業
+- 2021/09 ~ 2022/08 ライブ・エンタメ事業におけるETL改善&実装
 - 2020/03 ~ AI系論文メディアライター
   - https://ai-scholar.tech/author/tonouchi
-- 2021/09 ~ ライブ・エンタメ事業におけるETL改善&実装
 - 2021/10 ~ AI系事業での技術顧問
 - ...etc
 
 ## Technology Stack
 - Python, Golang, C#
-- TensorFlow
-- Kubeflow Pipelines
+- TensorFlow, Kubeflow Pipelines
 - GCP
+- DDD, MicroService
 
 ## [GitHub Trophy](https://github.com/tonouchi510/github-profile-trophy)
 <a href="https://github.com/tonouchi510/github-profile-trophy">
