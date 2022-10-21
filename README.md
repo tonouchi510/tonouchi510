@@ -49,6 +49,9 @@ Main Skill: R＆D(CV), MLOps, and backend.
 
 #### 外部登壇・執筆歴
 
+- 2022/10 CodeZine 「すぐ使いこなせるようになりたい人のためのGit入門 シリーズ」
+  - https://codezine.jp/article/corner/939
+
 - 2022/08 第22回 MLOps 勉強会
   - https://mlops.connpass.com/event/253094/
 
