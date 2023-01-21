@@ -43,11 +43,15 @@ Main Skill: R＆D(CV), MLOps, and backend.
   <img src="https://github-profile-trophy.vercel.app/?username=tonouchi510"/>
 </a>
 
-## その他：登壇・受賞歴等
+## その他：登壇、受賞、メディア露出等
 
 <details><summary>展開</summary>
 
-#### 外部登壇・執筆歴
+- 2023/01 日経xTech 1500万人が使うMIXIの写真共有アプリ「みてね」、AIを育てる基盤に用いたOSSとは
+  - https://xtech.nikkei.com/atcl/nxt/column/18/00001/07578/
+
+- 2023/01 OneNews 子どもの写真・動画共有アプリ「家族アルバム みてね」の人気機能「人物ごとのアルバム」。自動判定機能の開発秘話を聞いてみた
+  - https://one-news.jp/article/1117523
 
 - 2022/10 CodeZine 「すぐ使いこなせるようになりたい人のためのGit入門 シリーズ」
   - https://codezine.jp/article/detail/16559
@@ -70,15 +74,15 @@ Main Skill: R＆D(CV), MLOps, and backend.
 - 2020/07 日本ディープラーニング協会主催 CVPR 2020 技術報告会
   - https://jdla.connpass.com/event/177973/
   - https://speakerdeck.com/mixi_engineers/cvpr-2020-japan-deep-learning-association-lun-wen-shao-jie-bizinesuying-yong-li-toluo-mete
-- 2019/09 FIT2019発表 "CNNを用いた類似した三次元船型形状からの造波抵抗推定"
-- 2018/05 SPT2018発表 "安全性と利便性を考慮したチャレンジ・レスポンス分離ユーザ認証に関する提案：Dummy Indicator"
-
-#### 受賞
 - 2019/12 NAVITIME API CHALLENGE **優秀賞**
   - https://api-sdk.navitime.co.jp/challenge2019/
   - https://github.com/tonouchi510/navitime-challenge
+- 2019/09 FIT2019発表 "CNNを用いた類似した三次元船型形状からの造波抵抗推定"
+- 2018/05 SPT2018発表 "安全性と利便性を考慮したチャレンジ・レスポンス分離ユーザ認証に関する提案：Dummy Indicator"
 - 2017/10 MWS Cup 2017 **2位**
   - https://www.iwsec.org/mws/2017/photo.html
+
+
 
 #### 資格
 - 応用情報処理技術者
