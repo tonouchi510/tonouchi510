@@ -34,7 +34,7 @@ Main Skill: R＆D(CV), MLOps, and backend.
 - ...etc
 
 ## Technology Stack
-- Python, Golang, C#
+- Python, Golang, Flutter
 - TensorFlow, Kubeflow Pipelines
 - GCP
 - DDD, MicroService
