@@ -63,6 +63,10 @@ Main Skill: R＆D(CV), MLOps, and backend.
 - 2022/08 第22回 MLOps 勉強会
   - https://mlops.connpass.com/event/253094/
 
+- あらゆるデータの瞬時アクセスを実現する Google のベクトル検索技術
+  - Vertex Maching Engineの記事翻訳を担当
+  - https://cloud.google.com/blog/ja/topics/developers-practitioners/find-anything-blazingly-fast-googles-vector-search-technology
+
 - 2021/07 日本ディープラーニング協会主催 CVPR 2021 技術報告会
   - https://jdla.connpass.com/event/214724/
 
