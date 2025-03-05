@@ -4,6 +4,7 @@ Main Skill: R＆D(CV), MLOps, and backend.
 
 - Twitter: https://twitter.com/tono2700
 - LAPRAS: https://lapras.com/public/ICDDHFQ
+- Blog: https://moai510.hatenablog.com/
 - Qiita: https://qiita.com/tonouchi510  
 - connpass: https://connpass.com/user/tonouchi510/presentation/
 - speakerdeck: https://speakerdeck.com/tonouchi510
