@@ -52,6 +52,7 @@ Main Skill: R＆D(CV), MLOps, and backend.
 <details><summary>展開</summary>
 
 - SoccerNet Challenge Game State Reconstruction 2025 4位入賞 (CVSports Workshop)
+  - https://mixi.co.jp/news/2025/0625/42339/
   - https://www.codabench.org/competitions/4469/
 
 - MIXITECHTALK #8 「家族アルバム みてね」で使われている クラスタリング技術
