@@ -51,11 +51,11 @@ Main Skill: R＆D(CV), MLOps, and backend.
 
 <details><summary>展開</summary>
 
-- SoccerNet Challenge Game State Reconstruction 2025 4位入賞 (CVSports Workshop)
+- 2025/04 SoccerNet Challenge Game State Reconstruction 2025 4位入賞 (CVSports Workshop)
   - https://mixi.co.jp/news/2025/0625/42339/
   - https://www.codabench.org/competitions/4469/
 
-- MIXITECHTALK #8 「家族アルバム みてね」で使われている クラスタリング技術
+- 2024/12 MIXITECHTALK #8 「家族アルバム みてね」で使われている クラスタリング技術
   - https://www.youtube.com/live/xAlSnIH9WRI?si=YAJVYjRyM8weSsm-
 
 - 2023/01 日経xTech 1500万人が使うMIXIの写真共有アプリ「みてね」、AIを育てる基盤に用いたOSSとは
