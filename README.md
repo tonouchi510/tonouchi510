@@ -23,13 +23,13 @@ Main Skill: R＆D(CV), MLOps, and backend.
 </p>
 
 ## Work History
-- 2018/09 ~ 2020/03 ヘルスケア事業での人体姿勢推定（OpenPose等）
-- 2020/04 ~ 家族アルバム事業における研究開発（主に顔認識系）、MLOps
 - 2024/04 ~ スポーツ解析、アプリケーション開発（Golang/Flutter）
+- 2020/04 ~ 家族アルバム事業における研究開発（主に顔認識系）、MLOps
+- 2018/09 ~ 2020/03 ヘルスケア事業での人体姿勢推定（OpenPose等）
 
 #### その他・副業
+- 2022/09 ~ AI系 一般社団法人での一部運営業務
 - 2023/01 ~ 2023/04 電話自動応答サービスでのAIエンジニア
-- 2022/09 ~ AI系 一般社団法人での運営手伝い
 - 2021/10 ~ 2022/12 AI系事業での技術顧問
 - 2021/09 ~ 2022/08 ライブ・エンタメ事業におけるETL改善&実装
 - 2020/03 ~ AI系論文メディアライター
@@ -39,8 +39,12 @@ Main Skill: R＆D(CV), MLOps, and backend.
 ## Technology Stack
 - Python, Golang, Flutter
 - TensorFlow, Kubeflow Pipelines
-- GCP
+- GCP, AWS
 - DDD, MicroService
+
+## 資格等
+- 応用情報技術者
+- 基本情報技術者
 
 ## [GitHub Trophy](https://github.com/tonouchi510/github-profile-trophy)
 <a href="https://github.com/tonouchi510/github-profile-trophy">
@@ -96,11 +100,5 @@ Main Skill: R＆D(CV), MLOps, and backend.
 - 2018/05 SPT2018発表 "安全性と利便性を考慮したチャレンジ・レスポンス分離ユーザ認証に関する提案：Dummy Indicator"
 - 2017/10 MWS Cup 2017 **2位**
   - https://www.iwsec.org/mws/2017/photo.html
-
-
-
-#### 資格
-- 応用情報処理技術者
-- 基本情報処理技術者
 
 </details>
