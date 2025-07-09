@@ -2,7 +2,7 @@
 Software Engineer (ML) of mixi, Inc.  
 Main Skill: R＆D(CV), MLOps, and backend.
 
-- Twitter: https://twitter.com/tono2700
+- X: https://x.com/tono2700
 - LAPRAS: https://lapras.com/public/ICDDHFQ
 - Blog: https://moai510.hatenablog.com/
 - Qiita: https://qiita.com/tonouchi510  
@@ -41,10 +41,6 @@ Main Skill: R＆D(CV), MLOps, and backend.
 - TensorFlow, Kubeflow Pipelines
 - GCP, AWS
 - DDD, MicroService
-
-## 資格等
-- 応用情報技術者
-- 基本情報技術者
 
 ## [GitHub Trophy](https://github.com/tonouchi510/github-profile-trophy)
 <a href="https://github.com/tonouchi510/github-profile-trophy">
@@ -100,5 +96,10 @@ Main Skill: R＆D(CV), MLOps, and backend.
 - 2018/05 SPT2018発表 "安全性と利便性を考慮したチャレンジ・レスポンス分離ユーザ認証に関する提案：Dummy Indicator"
 - 2017/10 MWS Cup 2017 **2位**
   - https://www.iwsec.org/mws/2017/photo.html
+ 
+### 資格等
+- 統計検定 2級
+- 応用情報技術者
+- 基本情報技術者
 
 </details>
