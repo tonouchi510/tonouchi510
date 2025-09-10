@@ -3,8 +3,8 @@ Software Engineer (ML) of mixi, Inc.
 Main Skill: R＆D(CV), MLOps, and backend.
 
 - X: https://x.com/tono2700
-- LAPRAS: https://lapras.com/public/ICDDHFQ
 - Blog: https://moai510.hatenablog.com/
+- LAPRAS: https://lapras.com/public/ICDDHFQ
 - Qiita: https://qiita.com/tonouchi510  
 - connpass: https://connpass.com/user/tonouchi510/presentation/
 - speakerdeck: https://speakerdeck.com/tonouchi510
@@ -13,9 +13,6 @@ Main Skill: R＆D(CV), MLOps, and backend.
 <p align="left"> 
   <a href="https://github.com/tonouchi510/tonouchi510/">
     <img src="https://komarev.com/ghpvc/?username=tonouchi510" alt="tonouchi510" />
-  </a>
-  <a href="http://twitter.com/tonouchi510">
-    <img height="20" src="https://img.shields.io/twitter/follow/tono2700?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="http://qiita.com/tonouchi510">
     <img height="20" src="https://qiita-badge.apiapi.app/s/tonouchi510/posts.svg" />
@@ -50,6 +47,10 @@ Main Skill: R＆D(CV), MLOps, and backend.
 ## その他：登壇、受賞、メディア露出等
 
 <details><summary>展開</summary>
+  
+- 2025/08 研修資料公開：ソフトウェアアーキテクチャ研修（講師）
+  - スライド：https://speakerdeck.com/mixi_engineers/2025_new_grad_training_software_architecture
+  - 動画：https://www.youtube.com/watch?v=u3HhiticY4o
 
 - 2025/04 SoccerNet Challenge Game State Reconstruction 2025 4位入賞 (CVSports Workshop)
   - https://mixi.co.jp/news/2025/0625/42339/ (MIXIプレスリリース)
