@@ -47,7 +47,11 @@ Main Skill: R＆D(CV), MLOps, and backend.
 ## その他：登壇、受賞、メディア露出等
 
 <details><summary>展開</summary>
-  
+
+- 2025/09 Sports Tech Meetup Vol. 1〜スポーツの未来を創る、AIとデータの最前線〜
+  - https://mixi.connpass.com/event/369207/
+  - 資料：https://speakerdeck.com/mixi_engineers/intro-to-soccernet-gsr-and-tech-applications
+
 - 2025/08 研修資料公開：ソフトウェアアーキテクチャ研修（講師）
   - スライド：https://speakerdeck.com/mixi_engineers/2025_new_grad_training_software_architecture
   - 動画：https://www.youtube.com/watch?v=u3HhiticY4o
