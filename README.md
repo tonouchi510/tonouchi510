@@ -35,7 +35,7 @@ Main Skill: R＆D(CV), MLOps, and backend.
 
 ## Technology Stack
 - Python, Golang, Flutter
-- TensorFlow, Kubeflow Pipelines
+- HaggingFace, TensorFlow, Kubeflow Pipelines
 - GCP, AWS
 - DDD, MicroService
 
@@ -43,6 +43,9 @@ Main Skill: R＆D(CV), MLOps, and backend.
 <a href="https://github.com/tonouchi510/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=tonouchi510"/>
 </a>
+
+## 運営中の個人開発サービス
+- [将棋Lab - 将棋の上達をサポートするための将棋研究支援プラットフォーム](https://www.shogi-lab.jp/)
 
 ## その他：登壇、受賞、メディア露出等
 
