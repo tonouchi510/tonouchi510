@@ -1,6 +1,6 @@
 ## Hi! I'm masato.tonouchi 👋
 Software Engineer (ML) of mixi, Inc.  
-Main Skill: R＆D(CV), MLOps, and backend.
+Main Skill: R＆D(ML), MLOps, and backend.
 
 - X: https://x.com/tono2700
 - Blog: https://moai510.hatenablog.com/
@@ -20,24 +20,23 @@ Main Skill: R＆D(CV), MLOps, and backend.
 </p>
 
 ## Work History
-- 2024/04 ~ スポーツ解析、アプリケーション開発（Golang/Flutter）
-- 2020/04 ~ 家族アルバム事業における研究開発（主に顔認識系）、MLOps
-- 2018/09 ~ 2020/03 ヘルスケア事業での人体姿勢推定（OpenPose等）
+- 2026/04 ~ Next
+- 2020/04 ~ 2026/03 MIXI（顔認識、スポーツ映像解析、プロダクト開発）
+- 2018/09 ~ 2020/03 MIXI学生インターン（姿勢推定、プロダクト開発）
 
 #### その他・副業
 - 2022/09 ~ AI系 一般社団法人での一部運営業務
 - 2023/01 ~ 2023/04 電話自動応答サービスでのAIエンジニア
 - 2021/10 ~ 2022/12 AI系事業での技術顧問
 - 2021/09 ~ 2022/08 ライブ・エンタメ事業におけるETL改善&実装
-- 2020/03 ~ AI系論文メディアライター
-  - https://ai-scholar.tech/author/tonouchi
+- 2020/03 ~ 2021/03 AI系論文メディアライター（[記事リンク](https://ai-scholar.tech/author/tonouchi)）
 - ...etc
 
 ## Technology Stack
 - Python, Golang, Flutter
 - HaggingFace, TensorFlow, Kubeflow Pipelines
 - GCP, AWS
-- DDD, MicroService
+- DDD, MicroService, DB
 
 ## [GitHub Trophy](https://github.com/tonouchi510/github-profile-trophy)
 <a href="https://github.com/tonouchi510/github-profile-trophy">
@@ -48,8 +47,6 @@ Main Skill: R＆D(CV), MLOps, and backend.
 - [将棋Lab - 将棋の上達をサポートするための将棋研究支援プラットフォーム](https://www.shogi-lab.jp/)
 
 ## その他：登壇、受賞、メディア露出等
-
-<details><summary>展開</summary>
 
 - 2025/09 Sports Tech Meetup Vol. 1〜スポーツの未来を創る、AIとデータの最前線〜
   - https://mixi.connpass.com/event/369207/
@@ -110,5 +107,3 @@ Main Skill: R＆D(CV), MLOps, and backend.
 - 統計検定 2級
 - 応用情報技術者
 - 基本情報技術者
-
-</details>
