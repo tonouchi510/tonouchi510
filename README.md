@@ -1,6 +1,6 @@
 ## Hi! I'm masato.tonouchi 👋
-Software Engineer (ML) of mixi, Inc.  
-Main Skill: R＆D(ML), MLOps, and backend.
+Software Engineer (ML) of SB Intuitions, Inc.  
+Main Skill: R＆D(AI), MLOps, and backend.
 
 - X: https://x.com/tono2700
 - Blog: https://moai510.hatenablog.com/
@@ -20,12 +20,13 @@ Main Skill: R＆D(ML), MLOps, and backend.
 </p>
 
 ## Work History
-- 2026/04 ~ Next
+- 2026/04 ~ SB Intuitions
 - 2020/04 ~ 2026/03 MIXI（顔認識、スポーツ映像解析、プロダクト開発）
 - 2018/09 ~ 2020/03 MIXI学生インターン（姿勢推定、プロダクト開発）
 
 #### その他・副業
-- 2022/09 ~ AI系 一般社団法人での一部運営業務
+- 2026/04 ~ MIXI スポーツ事業アドバイザー
+- 2022/09 ~ AI系一般社団法人での一部運営業務
 - 2023/01 ~ 2023/04 電話自動応答サービスでのAIエンジニア
 - 2021/10 ~ 2022/12 AI系事業での技術顧問
 - 2021/09 ~ 2022/08 ライブ・エンタメ事業におけるETL改善&実装
