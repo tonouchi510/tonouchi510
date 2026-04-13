@@ -35,7 +35,7 @@ Main Skill: R＆D(AI), MLOps, and backend.
 
 ## Technology Stack
 - Python, Golang, Flutter
-- Machine Learning, MLOps
+- Deep Learning, MLOps
 - GCP, AWS
 - DDD, MicroService
 
