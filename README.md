@@ -35,9 +35,9 @@ Main Skill: R＆D(AI), MLOps, and backend.
 
 ## Technology Stack
 - Python, Golang, Flutter
-- HaggingFace, TensorFlow, Kubeflow Pipelines
+- Machine Learning, MLOps
 - GCP, AWS
-- DDD, MicroService, DB
+- DDD, MicroService
 
 ## [GitHub Trophy](https://github.com/tonouchi510/github-profile-trophy)
 <a href="https://github.com/tonouchi510/github-profile-trophy">
